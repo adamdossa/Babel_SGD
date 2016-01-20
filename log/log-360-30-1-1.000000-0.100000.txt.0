@@ -1,0 +1,121 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log-360-30-1-1.000000-0.100000.txt.0
+Calculating number of training examples
+No of training examples: 250
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 0
+Reading in heldout labels
+Reading in heldout features
+Running SGD
+Found file for resume: 0
+Found file for resume: 1
+Found file for resume: 2
+Found file for resume: 3
+Found file for resume: 4
+Found file for resume: 5
+Found file for resume: 6
+Found file for resume: 7
+Found file for resume: 8
+Found file for resume: 9
+Initializing from file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//beta-360-9-1-1.000000-0.100000.out
+SGD Epoch: 10
+Train: Calculating Likelihood
+Train: LogLikelihood: -11.472674
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 11
+Train: Calculating Likelihood
+Train: LogLikelihood: -11.333848
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 12
+Train: Calculating Likelihood
+Train: LogLikelihood: -11.210284
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 13
+Train: Calculating Likelihood
+Train: LogLikelihood: -11.099475
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 14
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.999125
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 15
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.907716
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 16
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.823698
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 17
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.746304
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 18
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.674488
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 19
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.607978
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 20
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.545814
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 21
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.487511
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 22
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.432611
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 23
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.381007
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 24
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.332389
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 25
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.286400
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 26
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.242603
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 27
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.201088
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 28
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.161483
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000
+SGD Epoch: 29
+Train: Calculating Likelihood
+Train: LogLikelihood: -10.123714
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: 0.000000

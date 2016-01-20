@@ -1,0 +1,14 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_bound-360-30-1-100.000000-0.001000.txt.32
+Reading in loadings
+Calculating number of training examples
+No of total training examples: 904
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 895
+Reading in heldout labels
+Reading in heldout features
+Running Stochastic Bound Method
+Bound Epoch: 0
+Running epoch: 0, sample: 0, class: 0
+Running epoch: 0, sample: 0, class: 1

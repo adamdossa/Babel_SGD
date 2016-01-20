@@ -1,0 +1,32 @@
+Log file: /home/aid2112/GRA//log_pcanl1-180-30-30700-1000.000000-0.000100.txt.0
+Reading in loadings
+Calculating number of training examples
+No of training examples: 7675795
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 1047593
+Reading in heldout labels
+Reading in heldout features
+Running SGD
+SGD Epoch: 0
+Train: Calculating Likelihood
+Train: LogLikelihood: -36588756.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -5635176.500000
+SGD Epoch: 1
+Train: Calculating Likelihood
+Train: LogLikelihood: -27713236.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -4283521.000000
+SGD Epoch: 2
+Train: Calculating Likelihood
+Train: LogLikelihood: -23743768.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -3692934.000000
+SGD Epoch: 3
+Train: Calculating Likelihood
+Train: LogLikelihood: -21506218.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -3356672.500000
+SGD Epoch: 4

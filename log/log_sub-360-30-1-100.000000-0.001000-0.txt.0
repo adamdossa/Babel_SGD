@@ -1,0 +1,38 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_sub-360-30-1-100.000000-0.001000-0.txt.0
+Reading in label mappings
+Calculating number of training examples
+No of training examples: 250
+Reading in labels
+Number of matched phones: 2
+Reading in features
+Running SGD
+SGD Epoch: 0
+SGD Epoch: 1
+SGD Epoch: 2
+SGD Epoch: 3
+SGD Epoch: 4
+SGD Epoch: 5
+SGD Epoch: 6
+SGD Epoch: 7
+SGD Epoch: 8
+SGD Epoch: 9
+SGD Epoch: 10
+SGD Epoch: 11
+SGD Epoch: 12
+SGD Epoch: 13
+SGD Epoch: 14
+SGD Epoch: 15
+SGD Epoch: 16
+SGD Epoch: 17
+SGD Epoch: 18
+SGD Epoch: 19
+SGD Epoch: 20
+SGD Epoch: 21
+SGD Epoch: 22
+SGD Epoch: 23
+SGD Epoch: 24
+SGD Epoch: 25
+SGD Epoch: 26
+SGD Epoch: 27
+SGD Epoch: 28
+SGD Epoch: 29

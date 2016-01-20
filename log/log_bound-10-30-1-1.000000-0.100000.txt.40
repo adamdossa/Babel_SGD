@@ -1,0 +1,52 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_bound-10-30-1-1.000000-0.100000.txt.40
+Reading in loadings
+Calculating number of training examples
+No of total training examples: 38427
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 15693
+Reading in heldout labels
+Reading in heldout features
+Running Stochastic Bound Method
+Bound Epoch: 0
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -18496730138463286073491456.000000
+Bound Epoch: 1
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -121350617300118429601569726164631552.000000
+Bound Epoch: 2
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -72883219685150892391054879441813504.000000
+Bound Epoch: 3
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -256099449741902215635330474612621312.000000
+Bound Epoch: 4
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -325611763651839174679356138388979712.000000
+Bound Epoch: 5
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -119582957766262677965520167088685056.000000
+Bound Epoch: 6
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -115422221487183886295499812185833472.000000
+Bound Epoch: 7
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -108497323556705869000304899978690560.000000
+Bound Epoch: 8

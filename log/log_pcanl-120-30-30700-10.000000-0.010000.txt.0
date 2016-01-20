@@ -1,0 +1,12 @@
+Log file: /home/aid2112/GRA//log_pcanl-120-30-30700-10.000000-0.010000.txt.0
+Reading in loadings
+Calculating number of training examples
+No of training examples: 7675795
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 1047593
+Reading in heldout labels
+Reading in heldout features
+Running SGD
+SGD Epoch: 0

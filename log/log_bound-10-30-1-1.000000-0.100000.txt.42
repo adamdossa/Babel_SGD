@@ -1,0 +1,67 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_bound-10-30-1-1.000000-0.100000.txt.42
+Reading in loadings
+Calculating number of training examples
+No of total training examples: 38427
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 15693
+Reading in heldout labels
+Reading in heldout features
+Running Stochastic Bound Method
+Bound Epoch: 0
+Train: Calculating Likelihood
+Train: LogLikelihood: -86096969728.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -5440263168.000000
+Bound Epoch: 1
+Train: Calculating Likelihood
+Train: LogLikelihood: -116748050432.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -5860932096.000000
+Bound Epoch: 2
+Train: Calculating Likelihood
+Train: LogLikelihood: -475088420864.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -44669792256.000000
+Bound Epoch: 3
+Train: Calculating Likelihood
+Train: LogLikelihood: -389966036992.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -35533578240.000000
+Bound Epoch: 4
+Train: Calculating Likelihood
+Train: LogLikelihood: -134434152448.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -14996387840.000000
+Bound Epoch: 5
+Train: Calculating Likelihood
+Train: LogLikelihood: -354986688512.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -15060039680.000000
+Bound Epoch: 6
+Train: Calculating Likelihood
+Train: LogLikelihood: -264563949568.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -17685102592.000000
+Bound Epoch: 7
+Train: Calculating Likelihood
+Train: LogLikelihood: -363566727168.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -48784125952.000000
+Bound Epoch: 8
+Train: Calculating Likelihood
+Train: LogLikelihood: -319101665280.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -24249692160.000000
+Bound Epoch: 9
+Train: Calculating Likelihood
+Train: LogLikelihood: -301725384704.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -43560464384.000000
+Bound Epoch: 10
+Train: Calculating Likelihood
+Train: LogLikelihood: -297383165952.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -47004401664.000000
+Bound Epoch: 11

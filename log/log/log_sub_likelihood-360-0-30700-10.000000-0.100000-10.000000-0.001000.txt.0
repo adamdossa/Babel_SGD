@@ -1,0 +1,10 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log/log_sub_likelihood-360-0-30700-10.000000-0.100000-10.000000-0.001000.txt.0
+Reading in label mappings
+Calculating number of training examples
+Calculating number of heldout examples
+No of heldout examples: 1047593
+Reading in heldout labels
+Reading in heldout features
+SGD Epoch: 0
+Initializing from file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//beta/beta_sgd_42-360-0-30700-10.000000-0.100000.out
+No file found - finishing

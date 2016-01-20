@@ -1,0 +1,32 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_bound-10-30-1-1.000000-0.100000.txt.26
+Reading in loadings
+Calculating number of training examples
+No of total training examples: 38427
+Reading in labels
+Reading in features
+Calculating number of heldout examples
+No of heldout examples: 15693
+Reading in heldout labels
+Reading in heldout features
+Running Stochastic Bound Method
+Bound Epoch: 0
+Train: Calculating Likelihood
+Train: LogLikelihood: -118932040744318825136128.000000
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -8071300648009728.000000
+Bound Epoch: 1
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -9553162350943802868367360.000000
+Bound Epoch: 2
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -50188111941573798210306048.000000
+Bound Epoch: 3
+Train: Calculating Likelihood
+Train: LogLikelihood: -inf
+Heldout: Calculating Likelihood
+Heldout: LogLikelihood: -20161062258240629017411584.000000
+Bound Epoch: 4

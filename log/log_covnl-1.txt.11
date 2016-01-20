@@ -1,0 +1,137 @@
+Log file: /Users/AdamDossa/Documents/XCode/Babel_SGD/Babel_SGD/log//log_covnl-1.txt.11
+Calculating number of training examples
+No of training examples: 3
+Reading in features
+Dimension: 9
+Mean: 0: 18.500000
+Mean: 1: 18.500000
+Mean: 2: 18.500000
+Mean: 3: 430.083344
+Mean: 4: 281.916656
+Mean: 5: 281.500000
+Mean: 6: 445.166656
+Mean: 7: 310.166656
+Mean: 8: 340.083344
+Doing covar for 3, 3
+Doing covar for 3, 4
+Doing covar for 3, 5
+Doing covar for 3, 6
+Doing covar for 3, 7
+Doing covar for 3, 8
+Doing covar for 4, 3
+Doing covar for 4, 4
+Doing covar for 4, 5
+Doing covar for 4, 6
+Doing covar for 4, 7
+Doing covar for 4, 8
+Doing covar for 5, 3
+Doing covar for 5, 4
+Doing covar for 5, 5
+Doing covar for 5, 6
+Doing covar for 5, 7
+Doing covar for 5, 8
+Doing covar for 6, 3
+Doing covar for 6, 4
+Doing covar for 6, 5
+Doing covar for 6, 6
+Doing covar for 6, 7
+Doing covar for 6, 8
+Doing covar for 7, 3
+Doing covar for 7, 4
+Doing covar for 7, 5
+Doing covar for 7, 6
+Doing covar for 7, 7
+Doing covar for 7, 8
+Doing covar for 8, 3
+Doing covar for 8, 4
+Doing covar for 8, 5
+Doing covar for 8, 6
+Doing covar for 8, 7
+Doing covar for 8, 8
+Doing covar2 for 0, 0
+Doing covar2 for 0, 1
+Doing covar2 for 0, 2
+Doing covar2 for 1, 1
+Doing covar2 for 1, 2
+Doing covar2 for 2, 2
+COV: 0, 0: 2279.000000
+COV: 0, 1: -514.000000
+COV: 0, 2: -64.000000
+COV: 0, 3: 0.000000
+COV: 0, 4: 0.000000
+COV: 0, 5: 0.000000
+COV: 0, 6: 0.000000
+COV: 0, 7: 0.000000
+COV: 0, 8: 0.000000
+COV: 1, 0: -514.000000
+COV: 1, 1: 1271.000000
+COV: 1, 2: -271.000000
+COV: 1, 3: 0.000000
+COV: 1, 4: 0.000000
+COV: 1, 5: 0.000000
+COV: 1, 6: 0.000000
+COV: 1, 7: 0.000000
+COV: 1, 8: 0.000000
+COV: 2, 0: -64.000000
+COV: 2, 1: -271.000000
+COV: 2, 2: 335.000000
+COV: 2, 3: 0.000000
+COV: 2, 4: 0.000000
+COV: 2, 5: 0.000000
+COV: 2, 6: 0.000000
+COV: 2, 7: 0.000000
+COV: 2, 8: 0.000000
+COV: 3, 0: 0.000000
+COV: 3, 1: 0.000000
+COV: 3, 2: 0.000000
+COV: 3, 3: 3315249.500000
+COV: 3, 4: 1048539.750000
+COV: 3, 5: 1598510.625000
+COV: 3, 6: -745716.250000
+COV: 3, 7: -414976.812500
+COV: 3, 8: 21098.703125
+COV: 4, 0: 0.000000
+COV: 4, 1: 0.000000
+COV: 4, 2: 0.000000
+COV: 4, 3: 1048539.750000
+COV: 4, 4: 1040471.875000
+COV: 4, 5: 415872.906250
+COV: 4, 6: 598432.187500
+COV: 4, 7: 173261.656250
+COV: 4, 8: -234406.343750
+COV: 5, 0: 0.000000
+COV: 5, 1: 0.000000
+COV: 5, 2: 0.000000
+COV: 5, 3: 1598510.625000
+COV: 5, 4: 415872.906250
+COV: 5, 5: 1022829.000000
+COV: 5, 6: -490113.843750
+COV: 5, 7: -196809.812500
+COV: 5, 8: 272528.593750
+COV: 6, 0: 0.000000
+COV: 6, 1: 0.000000
+COV: 6, 2: 0.000000
+COV: 6, 3: -745716.250000
+COV: 6, 4: 598432.187500
+COV: 6, 5: -490113.843750
+COV: 6, 6: 1841649.625000
+COV: 6, 7: 633830.687500
+COV: 6, 8: -358941.375000
+COV: 7, 0: 0.000000
+COV: 7, 1: 0.000000
+COV: 7, 2: 0.000000
+COV: 7, 3: -414976.812500
+COV: 7, 4: 173261.656250
+COV: 7, 5: -196809.812500
+COV: 7, 6: 633830.687500
+COV: 7, 7: 405573.687500
+COV: 7, 8: 31962.177734
+COV: 8, 0: 0.000000
+COV: 8, 1: 0.000000
+COV: 8, 2: 0.000000
+COV: 8, 3: 21098.703125
+COV: 8, 4: -234406.343750
+COV: 8, 5: 272528.593750
+COV: 8, 6: -358941.375000
+COV: 8, 7: 31962.177734
+COV: 8, 8: 474777.750000
