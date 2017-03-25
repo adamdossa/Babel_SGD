@@ -9,6 +9,4 @@ Techniques shown include:
 
 2)	A SGD tree where we first map to one of the 42 phones, and then map to one of the states associated with that specific phone. This was done by running SGD independently for each of the 42 phones, as well as at a top level to map from the features to the 42 phones, and then combining these 42 + 1 sets of parameters to generate log likelihoods.
 
-3)	Nearest neighbours for the PCA'ed data. Generally whilst the LSH approach is fast, there is quite a big tradeoff between speed, and accuracy in results. 
-
-4)	I ran the standard SGD on the activation data (as opposed to feature data).
+3)	Nearest neighbours for the PCA'ed data. Generally whilst the LSH approach is fast, there is quite a big tradeoff between speed, and accuracy in results.
